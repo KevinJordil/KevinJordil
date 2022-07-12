@@ -1,3 +1,0 @@
-# Kevin Jordil
-
-[![KevinJordil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevinJordil)](https://github.com/anuraghazra/github-readme-stats)
