@@ -15,7 +15,7 @@ Passionate about computer science and new technologies, I completed an apprentic
 
 Currently, I am studying in the Master's program in Embedded Computer Science at the University of Applied Sciences and Arts Western Switzerland (HES-SO). My academic journey reflects my ongoing commitment to learning and developing in-depth skills in the field of computer science.
 
-<div id="linkedin" align="center">
-    <img src="images/detect-mode.svg"/>
+<div id="contrib" align="center">
+    <img src="profile-3d-contrib/profile-night-green.svg"/>
 </div>
 
