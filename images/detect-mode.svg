@@ -1,0 +1,30 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @media (prefers-color-scheme: dark) {
+                    .dark-mode-image {
+                        display: block; /* Afficher l'image pour le mode sombre */
+                    }
+
+                    .light-mode-image {
+                        display: none; /* Masquer l'image pour le mode clair */
+                    }
+                }
+
+                @media (prefers-color-scheme: light) {
+                    /* Styles pour le mode clair */
+                    .dark-mode-image {
+                        display: none; /* Masquer l'image pour le mode sombre */
+                    }
+
+                    .light-mode-image {
+                        display: block; /* Afficher l'image pour le mode clair */
+                    }
+                }
+            </style>
+        </div>
+    </foreignObject>
+    <image class="light-mode-image" x="0" y="0" width="100%" height="100%" href="../profile-3d-contrib/profile-green-animate.svg" />
+    <image class="dark-mode-image" x="0" y="0" width="100%" height="100%" href="../profile-3d-contrib/profile-night-green.svg" />
+</svg>
